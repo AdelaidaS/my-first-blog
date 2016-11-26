@@ -25,7 +25,7 @@ SECRET_KEY = 'fw=9($hn8nldt3*gkzn9nz)qcf%46q%oc=&w$j)$!(q@*!j0^0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["adelaidas.pythonanywhere.com"]
 
 
 # Application definition
